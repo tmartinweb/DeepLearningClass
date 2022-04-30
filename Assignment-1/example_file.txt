@@ -1,0 +1,19 @@
+Python course
+Deep Learning course
+This is the best thing we can do.
+The thing we can do is the best.
+The best is the thing we can do.
+
+Word_Count: 
+Python: 1
+Course: 2
+Deep: 1
+Learning: 1
+This: 1
+Is: 3
+The: 5
+Best: 3
+Thing: 3
+We: 3
+Can: 3
+Do: 3
