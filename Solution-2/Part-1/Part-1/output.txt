@@ -1,0 +1,26 @@
+Jane Jameson, 101, CS:
+Current salary: $11025.0
+Pay earned to date: $75100.00
+
+Sam Samuelson, 156, IT:
+Current salary: $9000.0
+Pay earned to date: $63000.00
+
+Bob Boberson, 104, CS:
+Current salary: $9975.0
+Pay earned to date: $69825.00
+
+Tim Thomason, 136, IT:
+Current salary: $10000.0
+Pay earned to date: $70000.00
+
+Mike Michaelson, 188, IS:
+Not employed with the company.
+Pay earned to date: $32000.00
+
+Jason Jasonson, 190, IS:
+Current salary: $7875.0
+Pay earned to date: $47250.00
+
+Total number of employees: 6
+Average Salary paid to all employees: $7979.17

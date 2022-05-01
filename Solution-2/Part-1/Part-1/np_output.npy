@@ -1,0 +1,12 @@
+Original pseudorandom 3 by 5 array: 
+[[ 9 15 17  7  2]
+ [ 1 17 11 16  2]
+ [12  8 15 18 19]]
+
+Array after max ~> 0: 
+[[ 9 15  0  7  2]
+ [ 1  0 11 16  2]
+ [12  8 15 18  0]]
+
+Diagonal of array from (0,0): [ 9  0 15]
+
